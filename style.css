@@ -30,3 +30,9 @@ input {
   border-radius: 4px;
   text-align: center;
 }
+
+img {
+  width: 100%;
+  max-width: 15rem;
+  height: auto;
+}
